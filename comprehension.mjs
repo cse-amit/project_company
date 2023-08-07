@@ -1,4 +1,4 @@
-﻿// code for the React component that uses react-bootstrap:
+
 
 import React, { useState, useEffect } from "react";
 import { Form, Button } from "react-bootstrap";
